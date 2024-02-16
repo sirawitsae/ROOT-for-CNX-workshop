@@ -1,11 +1,9 @@
-# Software Carpentry Workshop: ROOT session
+# Emulsion data analysis workshop and Software Carpentry workshop ROOT session
 
-This repository contains the material used for the ROOT training session at the Software Carpentry Workshop November 2023.
+This repository contains the material used for the Emulsion data analysis and some Root tutorials at the Particle Detection: from Ground to Space and Space Weather Impact workshop in February 2024.
 
 Most of the material is in the form of Jupyter notebooks that can be opened and executed using the links below for [SWAN](https://swan.cern.ch), [Binder](https://mybinder.org), or [GitHub Codespaces](https://github.com/features/codespaces), respectively:
 
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/root-project/software-carpentry.git)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/root-project/software-carpentry/main)
 [![Github Codespace](https://img.shields.io/badge/open-GH_Codespaces-blue?logo=github)](https://codespaces.new/sirawitsae/ROOT-for-CNX-workshop?quickstart=1)
 
 Part of the material has been reused from:
